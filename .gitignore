@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+backend/.venv/
+
+# Frontend
+node_modules/
+dist/
+
+# Environment
+.env
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+backend/uploads/
+backend/app/uploads/
